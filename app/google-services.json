@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "501489482874",
-    "project_id": "biolume-access",
-    "storage_bucket": "biolume-access.appspot.com"
+    "project_number": "680440707669",
+    "project_id": "breeze--biolume",
+    "storage_bucket": "breeze--biolume.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:501489482874:android:32bb212bbd8ff3d3b34fc3",
+        "mobilesdk_app_id": "1:680440707669:android:dbc0ef336a3be642c1f2dc",
         "android_client_info": {
-          "package_name": "com.biolumeaccessfsm"
+          "package_name": "com.breezebiolumeskincare"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC7IZgEuk8ST0VzZ9Cu48xCwJKY6c5j-ho"
+          "current_key": "AIzaSyCtc3nepv0XHokGcnjXwkj1a7Z43kvT_kI"
         }
       ],
       "services": {

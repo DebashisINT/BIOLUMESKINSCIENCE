@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:layout_margin="@dimen/page_margin"
     android:orientation="vertical"
-    tools:context="com.biolumeaccessfsm.features.wikientry.presentation.WikiEntryActivity">
+    tools:context="com.breezebiolumeskincare.features.wikientry.presentation.WikiEntryActivity">
 
     <LinearLayout
         android:orientation="horizontal"

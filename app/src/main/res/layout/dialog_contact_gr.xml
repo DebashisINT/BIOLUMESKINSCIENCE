@@ -29,7 +29,7 @@
                 android:layout_gravity="center|start"
                 android:layout_marginLeft="@dimen/_5sdp"/>
 
-            <com.biolumeaccessfsm.widgets.AppCustomTextView
+            <com.breezebiolumeskincare.widgets.AppCustomTextView
                 android:id="@+id/dialog_contact_gr_header"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -44,8 +44,8 @@
             <ImageView
                 android:layout_marginEnd="@dimen/_5sdp"
                 android:id="@+id/iv_dialog_generic_list_close_icon"
-                android:layout_width="@dimen/_18sdp"
-                android:layout_height="@dimen/_18sdp"
+                android:layout_width="@dimen/_22sdp"
+                android:layout_height="@dimen/_22sdp"
                 android:layout_centerVertical="true"
                 android:src="@drawable/ic_close"
                 android:layout_gravity="center|end"
